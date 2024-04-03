@@ -27,5 +27,5 @@ We notice that in the case of two errors it tells us that it accepts the message
 
 NOTE(not in the code): Are there any error patterns that are not detected in two-dimensional parity, and if so which ones?In the case where there is a double toggle in one column and one row then the algorithm will not be able to detect the error due to the "balance" as mentioned in question 1.2.For a better understanding the following example is given.
 
-![image](https://github.com/angzosan/Networks-Signals/assets/118728873/9a26cad2-8190-4b1b-b542-1b01981f02f2)
+![image]
 
